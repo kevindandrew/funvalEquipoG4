@@ -1,6 +1,8 @@
 profesor
 Kevin Andrew Rodriguez Calderon
 
+lista de estudiantes
+
 Geraldine Antuane Revilla Mar
 Steven Orozco
 Mario Israel Cruz
@@ -11,10 +13,6 @@ Christopher Alejandro Zambrano Villavicencio
 Gabriel Nehemias Rengifo Krunfli
 Jeff Gil
 Johan Rodriguez
-Christopher Alejandro Zambrano Villavicencio
-Gabriel Nehemias Rengifo Krunfli
-Jeff Gil
-Yamila Rengifo
 Yamila Rengifo
 Luan Benjamín Rodríguez Suárez
 Pablo Antonio Palacio.
